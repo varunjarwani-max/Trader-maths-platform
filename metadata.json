@@ -1,0 +1,6 @@
+{
+  "name": "TraderMath Prep",
+  "description": "Mental math and number logic training app for quant trading prep featuring speed arithmetic, number sequence patterns, and 80-in-8 drills.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
